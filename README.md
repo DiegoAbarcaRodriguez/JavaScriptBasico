@@ -1,9 +1,12 @@
 # JavaScriptBasico
 ## Descripción
 Conjunto de scripts de javaScript realizados con el fin de repasar conceptos básicos.
+
 -> Declaración de Variables
 
 -> Datos Primitivos
+
+-> Objeto Math y operaciones Matématicas
 
 -> Métodos de Strings
 
